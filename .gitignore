@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+.DS_Store
+*.csv
+*.tif
+*.png
+*.ipynb_checkpoints/
